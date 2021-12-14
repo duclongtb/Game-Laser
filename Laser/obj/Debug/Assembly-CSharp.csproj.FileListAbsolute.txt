@@ -1,0 +1,2 @@
+D:\PT_Game\Laser\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\PT_Game\Laser\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
